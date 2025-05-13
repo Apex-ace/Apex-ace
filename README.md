@@ -2,7 +2,7 @@
 <p align="center"> AI |  ML | Full-Stack Dev | </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=What+is+codeing+and+vibe...;Always+learning,+always+building.;AI-powered+dreamer+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Always+learning,+always+building.;AI-powered+dreamer+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---

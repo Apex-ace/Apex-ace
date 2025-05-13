@@ -4,9 +4,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Always+learning,+always+building." alt="Typing SVG" />
 </div>
-
----
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Apex-ace&show_icons=true&theme=radical&hide=prs&count_private=true" width="45%" /> </div>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,firebase,supabase,html,css,js,git,github,vscode" /> </p>
 ### Who Am I?
 
 ```python
@@ -23,3 +22,9 @@ class ApexAce:
 
     def fun_fact(self):
         return "I fix bugs at 3AM and ask why I wrote that code at 3PM"
+```
+
+<h2>Reach Me At</h2>
+<h3>ayushmishra.i@gmail.com</h3>
+<h3>Open to collaboration, ideas, or just nerdy tech talk!</h3>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> <!--- Apex-ace/Apex-ace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->

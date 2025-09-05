@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Ayush — @Apex-ace </h1>
-<p align="center"> AI |  ML | Full-Stack Dev | </p>
+<p align="center"> AI |  ML | Dev | </p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Always+learning,+always+building." alt="Typing SVG" />

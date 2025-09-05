@@ -25,6 +25,6 @@ class ApexAce:
 ```
 
 <h2>Reach Me At</h2>
-<h3>ayushmishra.i@gmail.com</h3>
+<h3>ayushmishra.pi@gmail.com</h3>
 <h3>Open to collaboration, ideas, or just nerdy tech talk!</h3>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> <!--- Apex-ace/Apex-ace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->

@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Always+learning,+always+building." alt="Typing SVG" />
 </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Apex-ace&show_icons=true&theme=radical&hide=prs&count_private=true" width="45%" /> </div>
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,firebase,supabase,html,css,js,git,github,vscode" /> </p>
 ### Who Am I?
 

@@ -14,7 +14,7 @@ class ApexAce:
         self.name = "Ayush"
         self.alias = "@Apex-ace"
         self.interests = ["AI", "Machine Learning", "Web Dev", "Cool Side Projects"]
-        self.current_projects = ["EduVision", "Mediease", "Deepfake Detector"]
+        self.current_projects = ["Sport Booking", "Mediease", "Deepfake Detector"]
         self.email = "ayushmishra.pi@gmail.com"
 
     def get_skills(self):

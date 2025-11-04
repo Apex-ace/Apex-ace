@@ -1,29 +1,32 @@
-<h1 align="center"> Hey, I'm Ayush — @Apex-ace </h1>
-<p align="center"> AI |  ML | Dev | </p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Always+learning,+always+building." alt="Typing SVG" />
+  <h1> Hey, I'm Ayush — @Apex-ace </h1>
+  <p>AI Enthusiast | Machine Learning Engineer | Developer</p>
 </div>
 
-<h2>Who Am I?</h2>
+---
+
+##  About Me
+
+I'm a developer driven by a passion for building intelligent and useful applications. My main focus is at the intersection of **AI/Machine Learning** and **Web Development**.
+
+Here's a bit more about me in a format I love:
 
 ```python
 class ApexAce:
     def __init__(self):
         self.name = "Ayush"
         self.alias = "@Apex-ace"
-        self.interests = ["AI", "Machine Learning", "Web Dev", "Cool Side Projects"]
-        self.current_projects = ["Sport Booking", "Mediease", "Deepfake Detector"]
-        self.email = "ayushmishra.pi@gmail.com"
-
-    def get_skills(self):
-        return ["Python", "Flask", "React", "Firebase", "Supabase", "SQL", "ML"]
+        self.location = "India"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full-Stack Web Dev",
+            "Building Cool Side Projects"
+        ]
+        self.code = ["Python", "JavaScript", "SQL"]
 
     def fun_fact(self):
         return "I fix bugs at 3AM and ask why I wrote that code at 3PM"
-```
 
-<h2>Reach Me At</h2>
-<h3>ayushmishra.pi@gmail.com</h3>
-<h3>Open to collaboration, ideas, or just nerdy tech talk!</h3>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
+    def __repr__(self):
+        return f"Developer(name={self.name}, interests={self.interests})"

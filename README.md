@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Always+learning,+always+building." alt="Typing SVG" />
 </div>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,react,firebase,supabase,html,css,js,git,github,vscode" /> </p>
-
 <h2>Who Am I?</h2>
 
 ```python
